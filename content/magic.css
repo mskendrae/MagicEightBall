@@ -1,0 +1,22 @@
+﻿body {
+    background-color: darkgray;
+}
+.mBall{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.makecenter{
+    text-align:center;
+   
+}
+
+.mButton {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#answerBall{
+    font-size:30px;
+}
